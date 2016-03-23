@@ -1,0 +1,19 @@
+{
+  "name": "nssm-node-example",
+  "version": "0.0.0",
+  "description": "nssm node.js example",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "LightSpeedWorks/nssm-node-example"
+  },
+  "keywords": [
+    "nssm"
+  ],
+  "author": "LightSpeedC",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
